@@ -1,5 +1,5 @@
 <template>
-  <div class="about">About</div>
+  <div class="resume">Resume</div>
 </template>
 
 <script>
@@ -7,7 +7,7 @@ export default {};
 </script>
 
 <style scoped>
-.about {
+.resume {
   color: white;
 }
 </style>
